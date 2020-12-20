@@ -1,4 +1,4 @@
-package platofrom.codingnomads.co.moviecatalogservice;
+package platofrom.codingnomads.co.moviecatalogservice.resource;
 
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
