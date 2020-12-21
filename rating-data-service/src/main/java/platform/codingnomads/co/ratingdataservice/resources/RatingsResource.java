@@ -1,4 +1,4 @@
-package platform.codingnomads.co.ratingdataservice;
+package platform.codingnomads.co.ratingdataservice.resources;
 
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
