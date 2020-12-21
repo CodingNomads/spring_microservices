@@ -18,4 +18,6 @@ public class MovieInfoServiceApplication {
     public RestTemplate getRestTemplate() {
         return new RestTemplate();
     }
+
+
 }
