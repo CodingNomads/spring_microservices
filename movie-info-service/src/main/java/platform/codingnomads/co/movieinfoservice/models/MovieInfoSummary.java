@@ -2,6 +2,16 @@ package platform.codingnomads.co.movieinfoservice.models;
 
 public class MovieInfoSummary {
 
+    public MovieInfoSummary() {
+
+    }
+
+    public MovieInfoSummary(String id, String title, String overview) {
+        this.id = id;
+        this.title = title;
+        this.overview = overview;
+    }
+
     private String id;
     private String title;
     private String overview;
